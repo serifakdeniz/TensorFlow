@@ -1,0 +1,8 @@
+https://playground.tensorflow.org/       burası herşeyi görselleştirmeye yarıyor.
+
+-----------------------------
+Aktivasyon fonksiyonları
+1)sigmoud fonks=sıfır ile bir arasında değer alır.
+2)tanh fonk=-1 ile 1 arasında değer alır.
+3)relu =sıfır ile sonsuz arasında değer alır.
+4)linear fonk=f(x)=x  sonsuz değer alabilir.
